@@ -1,0 +1,16 @@
+Hyena,4,Female,Tan,70,"Friguia Park, Tunisia",2025-04-03,Spring
+Hyena,12,Male,Brown,150,"Friguia Park, Tunisia",2025-04-03,Fall
+Hyena,4,Male,Black,120,"Friguia Park, Tunisia",2025-04-03,Spring
+Hyena,8,Female,"Black and tan striped",105,"Friguia Park, Tunisia",2025-04-03,Fall
+Lion,6,Female,Tan,300,"Zanzibar, Tanzania",2025-04-03,Spring
+Lion,12,Female,"Dark tan",375,"KopeLion, Tanzania",2025-04-03,Winter
+Lion,22,Male,Golden,450,"Zanzibar, Tanzania",2025-04-03,Fall
+Lion,4,Female,"Tan and brown",275,"KopeLion, Tanzania",2025-04-03,Spring
+Tiger,2,Male,"Gold and tan stripes",270,"Dhaka, Bangladesh",2025-04-03,Spring
+Tiger,4,Female,"Black stripes",400,"Dhaka, Bangladesh",2025-04-03,Spring
+Tiger,18,Male,"Gold and tan",300,"Bardia, Nepal",2025-04-03,Fall
+Tiger,3,Female,"Black stripes",285,"Bardia, Nepal",2025-04-03,Spring
+Bear,7,Male,Brown,320,"Alaska Zoo, Alaska",2025-04-03,Spring
+Bear,25,Female,Black,425,"Woodland park Zoo, Washington",2025-04-03,Spring
+Bear,4,Female,Black,355,"Woodland park Zoo, Washington",2025-04-03,Fall
+Bear,4,Male,Brown,405,"Alaska Zoo, Alaska",2025-04-03,Spring
